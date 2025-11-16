@@ -52,4 +52,4 @@ Differential amplifier
 
 
 ## RESULT:                   
-Thus,the differential amplifiers are designed and successfully tested using Op-Amp IC741
+Thus,the differential amplifiers are designed and successfully tested using Op-Amp IC741.
